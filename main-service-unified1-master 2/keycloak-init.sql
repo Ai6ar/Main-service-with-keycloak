@@ -1,0 +1,2 @@
+-- SQL for Keycloak initial roles/users
+-- Adjust per Keycloak schema version
